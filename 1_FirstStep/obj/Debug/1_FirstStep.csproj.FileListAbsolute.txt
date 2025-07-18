@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\bin\Debug\1_FirstStep.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\bin\Debug\1_FirstStep.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\bin\Debug\1_FirstStep.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\obj\Debug\1_FirstStep.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\obj\Debug\1_FirstStep.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\obj\Debug\1_FirstStep.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\obj\Debug\1_FirstStep.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\1_FirstStep\obj\Debug\1_FirstStep.exe.config

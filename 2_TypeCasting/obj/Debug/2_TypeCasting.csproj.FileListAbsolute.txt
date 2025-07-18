@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\bin\Debug\2_TypeCasting.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\bin\Debug\2_TypeCasting.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\bin\Debug\2_TypeCasting.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\obj\Debug\2_TypeCasting.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\obj\Debug\2_TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\obj\Debug\2_TypeCasting.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\obj\Debug\2_TypeCasting.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\2_TypeCasting\obj\Debug\2_TypeCasting.exe.config
