@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\bin\Debug\4_Calculator.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\bin\Debug\4_Calculator.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\bin\Debug\4_Calculator.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\obj\Debug\4_Calculator.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\obj\Debug\4_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\obj\Debug\4_Calculator.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\obj\Debug\4_Calculator.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\4_Calculator\obj\Debug\4_Calculator.exe.config

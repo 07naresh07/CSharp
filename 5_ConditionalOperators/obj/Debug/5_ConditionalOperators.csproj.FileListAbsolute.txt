@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\obj\Debug\5_ConditionalOperators.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\obj\Debug\5_ConditionalOperators.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\bin\Debug\5_ConditionalOperators.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\bin\Debug\5_ConditionalOperators.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\bin\Debug\5_ConditionalOperators.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\obj\Debug\5_ConditionalOperators.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\obj\Debug\5_ConditionalOperators.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\5_ConditionalOperators\obj\Debug\5_ConditionalOperators.exe.config

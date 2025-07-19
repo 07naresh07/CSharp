@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\bin\Debug\3_Operators.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\bin\Debug\3_Operators.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\bin\Debug\3_Operators.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\obj\Debug\3_Operators.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\obj\Debug\3_Operators.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\obj\Debug\3_Operators.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\obj\Debug\3_Operators.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\3_Operators\obj\Debug\3_Operators.exe.config
