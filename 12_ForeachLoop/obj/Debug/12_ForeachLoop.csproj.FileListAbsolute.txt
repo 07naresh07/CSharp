@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\bin\Debug\12_ForeachLoop.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\bin\Debug\12_ForeachLoop.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\bin\Debug\12_ForeachLoop.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\obj\Debug\12_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\obj\Debug\12_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\obj\Debug\12_ForeachLoop.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\obj\Debug\12_ForeachLoop.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\12_ForeachLoop\obj\Debug\12_ForeachLoop.exe.config

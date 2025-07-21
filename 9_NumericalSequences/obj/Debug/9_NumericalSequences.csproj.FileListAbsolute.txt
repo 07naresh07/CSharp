@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\bin\Debug\9_NumericalSequences.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\bin\Debug\9_NumericalSequences.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\bin\Debug\9_NumericalSequences.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\obj\Debug\9_NumericalSequences.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\obj\Debug\9_NumericalSequences.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\obj\Debug\9_NumericalSequences.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\obj\Debug\9_NumericalSequences.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\9_NumericalSequences\obj\Debug\9_NumericalSequences.exe.config

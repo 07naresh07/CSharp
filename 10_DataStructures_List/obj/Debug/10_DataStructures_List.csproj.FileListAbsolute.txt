@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\bin\Debug\10_DataStructures_List.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\bin\Debug\10_DataStructures_List.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\bin\Debug\10_DataStructures_List.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\obj\Debug\10_DataStructures_List.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\obj\Debug\10_DataStructures_List.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\obj\Debug\10_DataStructures_List.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\obj\Debug\10_DataStructures_List.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\10_DataStructures_List\obj\Debug\10_DataStructures_List.exe.config
