@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\bin\Debug\14_Functions.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\bin\Debug\14_Functions.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\bin\Debug\14_Functions.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\obj\Debug\14_Functions.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\obj\Debug\14_Functions.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\obj\Debug\14_Functions.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\obj\Debug\14_Functions.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\14_Functions\obj\Debug\14_Functions.exe.config

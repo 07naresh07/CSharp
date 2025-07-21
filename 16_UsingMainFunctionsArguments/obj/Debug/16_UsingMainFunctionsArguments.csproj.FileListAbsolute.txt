@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\bin\Debug\16_UsingMainFunctionsArguments.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\bin\Debug\16_UsingMainFunctionsArguments.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\bin\Debug\16_UsingMainFunctionsArguments.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\obj\Debug\16_UsingMainFunctionsArguments.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\obj\Debug\16_UsingMainFunctionsArguments.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\obj\Debug\16_UsingMainFunctionsArguments.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\obj\Debug\16_UsingMainFunctionsArguments.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\16_UsingMainFunctionsArguments\obj\Debug\16_UsingMainFunctionsArguments.exe.config

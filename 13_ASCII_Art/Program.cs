@@ -10,8 +10,11 @@ namespace _13_ASCII_Art
     {
         static void Main(string[] args)
         {
-            int width = 30;
-            int height =20;
+            Console.Write("Enter the width: ");
+            int width = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the height: ");
+            int height = Convert.ToInt32(Console.ReadLine()); 
+
             for (int j=0; j<height; j++)
             {
                 for(int i=0; i<width; i++)
@@ -81,8 +84,8 @@ namespace _13_ASCII_Art
 
             // Creating circle
             Console.WriteLine("Circle:");
-            double centerX = width / 2;
-            double centerY = height / 2;
+            double centerX = width / 2.0;
+            double centerY = height / 2.0;
             double radius = Math.Min(centerX, centerY);
             for (int j = 0; j < height; j++)
             {
@@ -91,7 +94,7 @@ namespace _13_ASCII_Art
                     double distance = Math.Sqrt(Math.Pow(i - centerX, 2) + Math.Pow(j - centerY, 2));
                     if(distance<radius)
                     {
-                        Console.Write("#");
+                        Console.Write("o");
                     }
                     else
                     {

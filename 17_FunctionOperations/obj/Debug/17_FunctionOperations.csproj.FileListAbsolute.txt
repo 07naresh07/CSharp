@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\bin\Debug\17_FunctionOperations.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\bin\Debug\17_FunctionOperations.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\bin\Debug\17_FunctionOperations.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\obj\Debug\17_FunctionOperations.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\obj\Debug\17_FunctionOperations.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\obj\Debug\17_FunctionOperations.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\obj\Debug\17_FunctionOperations.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\17_FunctionOperations\obj\Debug\17_FunctionOperations.exe.config
