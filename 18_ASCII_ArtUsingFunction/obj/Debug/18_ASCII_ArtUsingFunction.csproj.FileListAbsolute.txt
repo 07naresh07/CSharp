@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\bin\Debug\18_ASCII_ArtUsingFunction.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\bin\Debug\18_ASCII_ArtUsingFunction.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\bin\Debug\18_ASCII_ArtUsingFunction.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\obj\Debug\18_ASCII_ArtUsingFunction.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\obj\Debug\18_ASCII_ArtUsingFunction.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\obj\Debug\18_ASCII_ArtUsingFunction.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\obj\Debug\18_ASCII_ArtUsingFunction.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\18_ASCII_ArtUsingFunction\obj\Debug\18_ASCII_ArtUsingFunction.exe.config

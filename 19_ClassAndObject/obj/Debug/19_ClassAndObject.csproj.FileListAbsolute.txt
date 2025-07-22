@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\bin\Debug\19_ClassAndObject.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\bin\Debug\19_ClassAndObject.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\bin\Debug\19_ClassAndObject.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\obj\Debug\19_ClassAndObject.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\obj\Debug\19_ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\obj\Debug\19_ClassAndObject.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\obj\Debug\19_ClassAndObject.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\19_ClassAndObject\obj\Debug\19_ClassAndObject.exe.config
