@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\bin\Debug\20_ClassesWithFunctions.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\bin\Debug\20_ClassesWithFunctions.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\bin\Debug\20_ClassesWithFunctions.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\obj\Debug\20_ClassesWithFunctions.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\obj\Debug\20_ClassesWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\obj\Debug\20_ClassesWithFunctions.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\obj\Debug\20_ClassesWithFunctions.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\20_ClassesWithFunctions\obj\Debug\20_ClassesWithFunctions.exe.config

@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\bin\Debug\22_ClassesAndProperties.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\bin\Debug\22_ClassesAndProperties.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\bin\Debug\22_ClassesAndProperties.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\obj\Debug\22_ClassesAndProperties.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\obj\Debug\22_ClassesAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\obj\Debug\22_ClassesAndProperties.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\obj\Debug\22_ClassesAndProperties.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\22_ClassesAndProperties\obj\Debug\22_ClassesAndProperties.exe.config

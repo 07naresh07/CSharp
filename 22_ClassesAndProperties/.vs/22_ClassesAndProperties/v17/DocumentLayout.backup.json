@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndham\\OneDrive\\Desktop\\CSharp\\22_ClassesAndProperties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A08152-E95C-468D-B9EA-A5306249A64D}|22_ClassesAndProperties.csproj|c:\\users\\ndham\\onedrive\\desktop\\csharp\\22_classesandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A08152-E95C-468D-B9EA-A5306249A64D}|22_ClassesAndProperties.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 226,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndham\\OneDrive\\Desktop\\CSharp\\22_ClassesAndProperties\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ndham\\OneDrive\\Desktop\\CSharp\\22_ClassesAndProperties\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:46:06.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
