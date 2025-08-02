@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\bin\Debug\23_StaticMethodClass.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\bin\Debug\23_StaticMethodClass.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\bin\Debug\23_StaticMethodClass.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\obj\Debug\23_StaticMethodClass.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\obj\Debug\23_StaticMethodClass.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\obj\Debug\23_StaticMethodClass.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\obj\Debug\23_StaticMethodClass.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\23_StaticMethodClass\23_StaticMethodClass\obj\Debug\23_StaticMethodClass.exe.config
