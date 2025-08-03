@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\bin\Debug\26_VectorClass.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\bin\Debug\26_VectorClass.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\bin\Debug\26_VectorClass.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\obj\Debug\26_VectorClass.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\obj\Debug\26_VectorClass.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\obj\Debug\26_VectorClass.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\obj\Debug\26_VectorClass.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\26_VectorClass\26_VectorClass\obj\Debug\26_VectorClass.exe.config

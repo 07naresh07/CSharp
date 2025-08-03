@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndham\\OneDrive\\Desktop\\CSharp\\24_StructsComplexImaginaryNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D6598B-5B40-4BEC-98AF-37316C909175}|24_StructsComplexImaginaryNumbers\\24_StructsComplexImaginaryNumbers.csproj|c:\\users\\ndham\\onedrive\\desktop\\csharp\\24_structscompleximaginarynumbers\\24_structscompleximaginarynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D6598B-5B40-4BEC-98AF-37316C909175}|24_StructsComplexImaginaryNumbers\\24_StructsComplexImaginaryNumbers.csproj|solutionrelative:24_structscompleximaginarynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ndham\\OneDrive\\Desktop\\CSharp\\24_StructsComplexImaginaryNumbers\\24_StructsComplexImaginaryNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "24_StructsComplexImaginaryNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ndham\\OneDrive\\Desktop\\CSharp\\24_StructsComplexImaginaryNumbers\\24_StructsComplexImaginaryNumbers\\Program.cs*",
+              "RelativeToolTip": "24_StructsComplexImaginaryNumbers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:40:01.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
