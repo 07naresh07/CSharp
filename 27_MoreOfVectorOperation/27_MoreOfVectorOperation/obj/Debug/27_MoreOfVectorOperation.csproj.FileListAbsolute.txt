@@ -1,0 +1,8 @@
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\bin\Debug\27_MoreOfVectorOperation.exe.config
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\bin\Debug\27_MoreOfVectorOperation.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\bin\Debug\27_MoreOfVectorOperation.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\obj\Debug\27_MoreOfVectorOperation.csproj.AssemblyReference.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\obj\Debug\27_MoreOfVectorOperation.csproj.CoreCompileInputs.cache
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\obj\Debug\27_MoreOfVectorOperation.exe
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\obj\Debug\27_MoreOfVectorOperation.pdb
+C:\Users\ndham\OneDrive\Desktop\CSharp\27_MoreOfVectorOperation\27_MoreOfVectorOperation\obj\Debug\27_MoreOfVectorOperation.exe.config
